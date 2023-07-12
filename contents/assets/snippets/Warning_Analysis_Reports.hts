@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="topic-comment" content=""/>
+<meta name="generator" content="Adobe RoboHelp 2022"/>
+<title>Warning_Analysis_Reports</title>
+<link rel="StyleSheet" href="../css/default.css" type="text/css"/>
+</head>
+
+<body>
+<table cellspacing="0" width="100%">
+	<colgroup><col width="70"/>
+	<col style="width: 100%;"/>
+	</colgroup><tbody><tr>
+		<td bgcolor="#CCCCCC"><img src="../images/images/warning.png" alt="" style="border: none;" border="0"/></td>
+		<td bgcolor="#CCCCCC"><span style="font-weight: bold;">Warning:</span> 
+		 Please make sure to position analysis points on the 3D model correctly 
+		 according to the analysis protocol by optimizing zooming and viewing 
+		 positions to measure correct anatomical features. </td>
+	</tr>
+</tbody></table>
+
+</body></html>

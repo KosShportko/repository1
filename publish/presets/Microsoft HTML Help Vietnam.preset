@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preset>
+  <content>
+    <index type="boolean">true</index>
+    <toc>
+      <path>../../toc/Ortho System.toc</path>
+      <name>Ortho System</name>
+    </toc>
+    <glossary>
+      <path>../../glossary/Ortho System.glo</path>
+      <name>Ortho System</name>
+    </glossary>
+    <conditional>
+      <name>NOT General AND NOT KO_3DBioCAD_Asia AND NOT KO_3Shape_Korea AND NOT KO_DIO_IMPLANT AND NOT KO_OSSTEM_IMPLANT AND NOT Korea AND NOT Thailand</name>
+      <path>../expressions/NOT General AND NOT KO_3DBioCAD_Asia AND NOT KO_3Shape_Korea AND NOT KO_DIO_IMPLANT AND NOT KO_OSSTEM_IMPLANT AND NOT Korea AND NOT Thailand.expn</path>
+    </conditional>
+    <masterpage>
+      <name>To Top.htt</name>
+      <path>../../contents/assets/layouts/To Top.htt</path>
+    </masterpage>
+    <brs type="array"></brs>
+    <mapFiles type="array"></mapFiles>
+    <includeDropdownText type="boolean">true</includeDropdownText>
+    <includeExpandingText type="boolean">true</includeExpandingText>
+    <relativeOutputPath type="boolean">false</relativeOutputPath>
+  </content>
+  <outputPath>C:/Users/Kostiantyn Shportko/Documents/My RoboHelp Projects/outputs/Ortho System/Microsoft_HTML_Help_Vietnam</outputPath>
+  <starterPage>OS-85.0-K-EN.chm</starterPage>
+  <search>
+    <context>keyword</context>
+    <showSpeclChars type="boolean">false</showSpeclChars>
+    <speclChars>0;1;2;3;4;5;6;7;8;9</speclChars>
+  </search>
+  <sitemap>
+    <use type="boolean">false</use>
+    <changeFrequency></changeFrequency>
+  </sitemap>
+  <name>Microsoft HTML Help Vietnam</name>
+  <type>chm</type>
+  <title>Ortho System</title>
+  <defaultTopic>
+    <name>Front_Page.htm</name>
+    <path>../../contents/Front_Page.htm</path>
+  </defaultTopic>
+  <lowercasenames type="number">0</lowercasenames>
+</preset>

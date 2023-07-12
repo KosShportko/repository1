@@ -1,0 +1,567 @@
+/*Created with Adobe RoboHelp 11.*/
+BODY {
+	background-color: #ffffff;
+	font-size: 10pt;
+	font-family: Verdana;
+}
+h1 {
+	font-weight: bold;
+	font-size: 16pt;
+	font-family: Verdana, sans-serif;
+	background-color: #4d4e50;
+	color: #ffffff;
+	page-break-after: avoid;
+}
+H2 {
+	font-weight: bold;
+	font-size: 14pt;
+	font-family: Verdana, sans-serif;
+	background-color: #4d4e50;
+	color: #ffffff;
+	page-break-after: avoid;
+}
+H3 {
+	font-weight: bold;
+	font-size: 12pt;
+	font-family: Verdana, sans-serif;
+	background-color: #4d4e50;
+	color: #ffffff;
+	border-left-style: Solid;
+	border-left-width: 0.01px;
+	border-right-style: Solid;
+	border-right-width: 0.01px;
+	border-top-style: Solid;
+	border-top-width: 0.01px;
+	border-bottom-style: Solid;
+	border-bottom-width: 0.01px;
+	border-left-color: #4d4e50;
+	border-right-color: #4d4e50;
+	border-top-color: #4d4e50;
+	border-bottom-color: #4d4e50;
+	page-break-after: avoid;
+}
+H4 {
+	font-weight: bold;
+	background-color: #4d4e50;
+	color: #ffffff;
+	font-family: Verdana, sans-serif;
+	font-size: 11pt;
+	page-break-after: avoid;
+}
+H5 {
+	font-weight: bold;
+	font-size: 10.0pt;
+	color: #ffffff;
+	background-color: #4d4e50;
+	x-next-class: ;
+	x-next-type: P;
+	page-break-after: avoid;
+}
+H6 {
+	font-weight: bold;
+	font-size: 8.0pt;
+	page-break-after: avoid;
+}
+p {
+	font-size: 10pt;
+	font-family: Verdana, sans-serif;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	text-align: left;
+}
+OL,
+UL {
+	font-family: Verdana;
+	font-size: 10pt;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+LI {
+	margin-top: 7pt;
+	margin-bottom: 7pt;
+}
+p.caption {
+	font-size: 8pt;
+	font-style: italic;
+	text-align: center;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	page-break-before: avoid;
+}
+p.SECTION-HEADING {
+	font-weight: bold;
+	text-transform: uppercase;
+	margin-top: 18pt;
+	margin-bottom: 10pt;
+	x-next-type: P;
+	page-break-after: avoid;
+}
+p.Step-heading {
+	font-size: 10pt;
+	font-weight: bold;
+	margin-bottom: 10pt;
+	margin-top: 14pt;
+	x-next-class: ;
+	x-next-type: P;
+	page-break-after: avoid;
+}
+p.Subtitle {
+	font-size: 14pt;
+	margin-top: 14pt;
+	margin-bottom: 14pt;
+	font-weight: bold;
+	text-align: center;
+}
+p.Title {
+	font-size: 18pt;
+	margin-top: 14pt;
+	margin-bottom: 14pt;
+	font-weight: bold;
+	text-align: center;
+}
+p.version-date {
+	color: #c0c0c0;
+	margin-top: 14pt;
+	margin-bottom: 14pt;
+	text-align: right;
+	font-size: 8pt;
+}
+SPAN.reference {
+	color: #800000;
+	font-weight: bold;
+}
+SPAN.reference-in-image-caption {
+	color: #800000;
+	font-weight: bold;
+	font-size: 8pt;
+	font-style: italic;
+}
+table {
+	font-size: 10pt;
+	font-family: Verdana, sans-serif;
+	text-align: left;
+}
+table.table-for-note {
+	background-color: #cccccc;
+	border-spacing: 0px;
+	border-top: 0px;
+	border-right: 0px;
+	border-bottom: 0px;
+	border-left: 0px;
+}
+table.table-without-border {
+	border-collapse: collapse;
+	border-spacing: 0;
+	border-top: 0px;
+	border-right: 0px;
+	border-bottom: 0px;
+	border-left: 0px;
+}
+table.table-with-border {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+table.table-with-header {
+	x-1st-row: 1;
+	border-collapse: collapse;
+	x-border-spacing: 0px;
+}
+table.table-for-image-caption {
+	border-collapse: collapse;
+	border-spacing: 0;
+	border-top: 0px;
+	border-right: 0px;
+	border-bottom: 0px;
+	border-left: 0px;
+	text-align: center;
+	page-break-before: avoid;
+}
+p.list-spacing {
+	margin-top: 7pt;
+	margin-bottom: 7pt;
+}
+p.Bulleted-list {
+	--autonumber: autonumber;
+	margin-bottom: 7pt;
+	margin-top: 7pt;
+	--prefix-size: 15px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 0px;
+	margin-left: 40px;
+	position: relative;
+}
+p.Bulleted-list:before {
+	counter-increment: p\.bulleted-list1;
+	content: counter(p\.bulleted-list1, disc);
+	text-align: left;
+	left: calc(-1 * var(--prefix-size) - var(--prefix-gap));
+	margin-right: var(--prefix-gap);
+	width: var(--prefix-size);
+	position: absolute;
+}
+p.Bulleted-list[data-list-level="2"] {
+	margin-bottom: 7pt;
+	margin-top: 7pt;
+	--prefix-size: 15px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 0px;
+	margin-left: 80px;
+	position: relative;
+}
+p.Bulleted-list[data-list-level="2"]:before {
+	counter-increment: item2;
+	content: counter(item2, circle);
+	text-align: left;
+	left: calc(-1 * var(--prefix-size) - var(--prefix-gap));
+	margin-right: var(--prefix-gap);
+	width: var(--prefix-size);
+	position: absolute;
+}
+p.Bulleted-list[data-list-level="3"] {
+	margin-bottom: 7pt;
+	margin-top: 7pt;
+	--prefix-size: 15px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 0px;
+	margin-left: 120px;
+	position: relative;
+}
+p.Bulleted-list[data-list-level="3"]:before {
+	counter-increment: item3;
+	content: counter(item3, square);
+	text-align: left;
+	left: calc(-1 * var(--prefix-size) - var(--prefix-gap));
+	margin-right: var(--prefix-gap);
+	width: var(--prefix-size);
+	position: absolute;
+}
+p.Bulleted-list[data-list-level="4"] {
+	text-align: left;
+	margin-bottom: 0pt;
+	margin-top: 0pt;
+	font-family: Verdana, sans-serif;
+	font-size: 10pt;
+	--prefix-size: 24px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 8px;
+	margin-left: 60px;
+	position: relative;
+}
+p.Bulleted-list[data-list-level="4"]:before {
+	counter-increment: item4;
+	content: "("counter(item4, decimal)")";
+	text-align: left;
+	left: calc(-1 * var(--prefix-size) - var(--prefix-gap));
+	margin-right: var(--prefix-gap);
+	width: var(--prefix-size);
+}
+p.Bulleted-list[data-list-level="5"] {
+	text-align: left;
+	margin-bottom: 0pt;
+	margin-top: 0pt;
+	font-family: Verdana, sans-serif;
+	font-size: 10pt;
+	--prefix-size: 24px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 8px;
+	margin-left: 80px;
+	position: relative;
+}
+p.Bulleted-list[data-list-level="5"]:before {
+	counter-increment: item5;
+	content: "("counter(item5, lower-roman)")";
+	text-align: left;
+	left: calc(-1 * var(--prefix-size) - var(--prefix-gap));
+	margin-right: var(--prefix-gap);
+	width: var(--prefix-size);
+}
+p.Bulleted-list[data-list-level="6"] {
+	text-align: left;
+	margin-bottom: 0pt;
+	margin-top: 0pt;
+	font-family: Verdana, sans-serif;
+	font-size: 10pt;
+	--prefix-size: 24px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 8px;
+	margin-left: 100px;
+	position: relative;
+}
+p.Bulleted-list[data-list-level="6"]:before {
+	counter-increment: item6;
+	content: "("counter(item6, lower-roman)")";
+	text-align: left;
+	left: calc(-1 * var(--prefix-size) - var(--prefix-gap));
+	margin-right: var(--prefix-gap);
+	width: var(--prefix-size);
+}
+p.Bulleted-list[data-list-level="7"] {
+	text-align: left;
+	margin-bottom: 0pt;
+	margin-top: 0pt;
+	font-family: Verdana, sans-serif;
+	font-size: 10pt;
+	--prefix-size: 24px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 12px;
+	margin-left: 120px;
+	position: relative;
+}
+p.Bulleted-list[data-list-level="7"]:before {
+	counter-increment: item7;
+	content: counter(item7, decimal)".";
+	text-align: left;
+	left: calc(-1 * var(--prefix-size) - var(--prefix-gap));
+	margin-right: var(--prefix-gap);
+	width: var(--prefix-size);
+}
+p.Bulleted-list[data-list-level="8"] {
+	text-align: left;
+	margin-bottom: 0pt;
+	margin-top: 0pt;
+	font-family: Verdana, sans-serif;
+	font-size: 10pt;
+	--prefix-size: 24px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 12px;
+	margin-left: 140px;
+	position: relative;
+}
+p.Bulleted-list[data-list-level="8"]:before {
+	counter-increment: item8;
+	content: counter(item8, lower-alpha)".";
+	text-align: left;
+	left: calc(-1 * var(--prefix-size) - var(--prefix-gap));
+	margin-right: var(--prefix-gap);
+	width: var(--prefix-size);
+}
+p.Bulleted-list[data-list-level="9"] {
+	text-align: left;
+	margin-bottom: 0pt;
+	margin-top: 0pt;
+	font-family: Verdana, sans-serif;
+	font-size: 10pt;
+	--prefix-size: 24px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 12px;
+	margin-left: 160px;
+	position: relative;
+}
+p.Bulleted-list[data-list-level="9"]:before {
+	counter-increment: item9;
+	content: counter(item9, lower-roman)".";
+	text-align: left;
+	left: calc(-1 * var(--prefix-size) - var(--prefix-gap));
+	margin-right: var(--prefix-gap);
+	width: var(--prefix-size);
+}
+p.Numbered-list {
+	--autonumber: autonumber;
+	margin-bottom: 7pt;
+	margin-top: 7pt;
+	--prefix-size: 20px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 0px;
+	margin-left: 40px;
+	position: relative;
+}
+p.Numbered-list:before {
+	counter-increment: p\.numbered-list1;
+	content: counter(p\.numbered-list1, decimal)".";
+	text-align: left;
+	left: calc(-1 * var(--prefix-size) - var(--prefix-gap));
+	margin-right: var(--prefix-gap);
+	width: var(--prefix-size);
+	position: absolute;
+}
+p.Numbered-list[data-list-level="2"] {
+	margin-bottom: 7pt;
+	margin-top: 7pt;
+	--prefix-size: 20px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 0px;
+	margin-left: 80px;
+	position: relative;
+}
+p.Numbered-list[data-list-level="2"]:before {
+	counter-increment: item2;
+	content: counter(item2, lower-alpha)".";
+	text-align: left;
+	left: calc(-1 * var(--prefix-size) - var(--prefix-gap));
+	margin-right: var(--prefix-gap);
+	width: var(--prefix-size);
+	position: absolute;
+}
+p.Numbered-list[data-list-level="3"] {
+	margin-bottom: 7pt;
+	margin-top: 7pt;
+	--prefix-size: 20px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 0px;
+	margin-left: 120px;
+	position: relative;
+}
+p.Numbered-list[data-list-level="3"]:before {
+	counter-increment: item3;
+	content: counter(item3, lower-roman)".";
+	text-align: left;
+	left: calc(-1 * var(--prefix-size) - var(--prefix-gap));
+	margin-right: var(--prefix-gap);
+	width: var(--prefix-size);
+	position: absolute;
+}
+p.Numbered-list[data-list-level="4"] {
+	text-align: left;
+	margin-bottom: 0pt;
+	margin-top: 0pt;
+	font-family: Verdana, sans-serif;
+	font-size: 10pt;
+	--prefix-size: 24px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 8px;
+	margin-left: 60px;
+	position: relative;
+}
+p.Numbered-list[data-list-level="4"]:before {
+	counter-increment: item4;
+	content: "("counter(item4, decimal)")";
+	text-align: left;
+	left: calc(-1 * var(--prefix-size) - var(--prefix-gap));
+	margin-right: var(--prefix-gap);
+	width: var(--prefix-size);
+}
+p.Numbered-list[data-list-level="5"] {
+	text-align: left;
+	margin-bottom: 0pt;
+	margin-top: 0pt;
+	font-family: Verdana, sans-serif;
+	font-size: 10pt;
+	--prefix-size: 24px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 8px;
+	margin-left: 80px;
+	position: relative;
+}
+p.Numbered-list[data-list-level="5"]:before {
+	counter-increment: item5;
+	content: "("counter(item5, lower-roman)")";
+	text-align: left;
+	left: calc(-1 * var(--prefix-size) - var(--prefix-gap));
+	margin-right: var(--prefix-gap);
+	width: var(--prefix-size);
+}
+p.Numbered-list[data-list-level="6"] {
+	text-align: left;
+	margin-bottom: 0pt;
+	margin-top: 0pt;
+	font-family: Verdana, sans-serif;
+	font-size: 10pt;
+	--prefix-size: 24px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 8px;
+	margin-left: 100px;
+	position: relative;
+}
+p.Numbered-list[data-list-level="6"]:before {
+	counter-increment: item6;
+	content: "("counter(item6, lower-roman)")";
+	text-align: left;
+	left: calc(-1 * var(--prefix-size) - var(--prefix-gap));
+	margin-right: var(--prefix-gap);
+	width: var(--prefix-size);
+}
+p.Numbered-list[data-list-level="7"] {
+	text-align: left;
+	margin-bottom: 0pt;
+	margin-top: 0pt;
+	font-family: Verdana, sans-serif;
+	font-size: 10pt;
+	--prefix-size: 24px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 12px;
+	margin-left: 120px;
+	position: relative;
+}
+p.Numbered-list[data-list-level="7"]:before {
+	counter-increment: item7;
+	content: counter(item7, decimal)".";
+	text-align: left;
+	left: calc(-1 * var(--prefix-size) - var(--prefix-gap));
+	margin-right: var(--prefix-gap);
+	width: var(--prefix-size);
+}
+p.Numbered-list[data-list-level="8"] {
+	text-align: left;
+	margin-bottom: 0pt;
+	margin-top: 0pt;
+	font-family: Verdana, sans-serif;
+	font-size: 10pt;
+	--prefix-size: 24px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 12px;
+	margin-left: 140px;
+	position: relative;
+}
+p.Numbered-list[data-list-level="8"]:before {
+	counter-increment: item8;
+	content: counter(item8, lower-alpha)".";
+	text-align: left;
+	left: calc(-1 * var(--prefix-size) - var(--prefix-gap));
+	margin-right: var(--prefix-gap);
+	width: var(--prefix-size);
+}
+p.Numbered-list[data-list-level="9"] {
+	text-align: left;
+	margin-bottom: 0pt;
+	margin-top: 0pt;
+	font-family: Verdana, sans-serif;
+	font-size: 10pt;
+	--prefix-size: 24px;
+	--prefix-fixed-size: 0;
+	--prefix-gap: 12px;
+	margin-left: 160px;
+	position: relative;
+}
+p.Numbered-list[data-list-level="9"]:before {
+	counter-increment: item9;
+	content: counter(item9, lower-roman)".";
+	text-align: left;
+	left: calc(-1 * var(--prefix-size) - var(--prefix-gap));
+	margin-right: var(--prefix-gap);
+	width: var(--prefix-size);
+}
+body {
+	counter-reset: p\.bulleted-list1 0 p\.numbered-list1 0;
+}
+:not([data-list-level])+[data-list-level="2"] {
+	counter-reset: item2 0;
+}
+[data-list-level="2"]+[data-list-level="3"] {
+	counter-reset: item3 0;
+}
+[data-list-level="3"]+[data-list-level="4"] {
+	counter-reset: item4 0;
+}
+[data-list-level="4"]+[data-list-level="5"] {
+	counter-reset: item5 0;
+}
+[data-list-level="5"]+[data-list-level="6"] {
+	counter-reset: item6 0;
+}
+[data-list-level="6"]+[data-list-level="7"] {
+	counter-reset: item7 0;
+}
+[data-list-level="7"]+[data-list-level="8"] {
+	counter-reset: item8 0;
+}
+[data-list-level="8"]+[data-list-level="9"] {
+	counter-reset: item9 0;
+}
+table.table-without-border td {padding: 5px;
+}
+table.table-with-border td {border-top: solid 1px #c0c0c0;border-right: solid 1px #c0c0c0;border-bottom: solid 1px #c0c0c0;border-left: solid 1px #c0c0c0;padding-left: 5px;padding-top: 5px;padding-bottom: 5px;vertical-align: center;
+}
+table.table-with-header td {border-left-style: Solid;border-left-width: 1px;border-left-color: #c0c0c0;border-right-style: Solid;border-right-width: 1px;border-right-color: #c0c0c0;border-top-style: Solid;border-top-width: 1px;border-top-color: #c0c0c0;border-bottom-style: Solid;border-bottom-width: 1px;border-bottom-color: #c0c0c0;padding-left: 5px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;
+}
+table.table-with-header tr:first-child td {background-color: #808080;color: #ffffff;text-align: center;font-weight: bold;
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<val>
+  <prop att="Others" val="General" backcolor="#0000ff"></prop>
+  <prop att="Others" val="KO_3DBioCAD_Asia" backcolor="#000080"></prop>
+  <prop att="Others" val="KO_3Shape_Korea" backcolor="#808080"></prop>
+  <prop att="Others" val="KO_DIO_IMPLANT" backcolor="#ff00ff"></prop>
+  <prop att="Others" val="KO_OSSTEM_IMPLANT" backcolor="#00ffff"></prop>
+  <prop att="Others" val="Korea" backcolor="#ffff00"></prop>
+  <prop att="Others" val="Online" backcolor="#00ff00"></prop>
+  <prop att="Others" val="Print" backcolor="#ff0000"></prop>
+  <prop att="Others" val="Thailand" backcolor="#800000"></prop>
+  <prop att="Others" val="Vietnam" backcolor="#008000"></prop>
+</val>

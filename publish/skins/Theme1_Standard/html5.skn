@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skin>
+  <layout>home_page</layout>
+  <name>Indigo</name>
+  <variables>
+    <css>
+      <back_to_top_image>top.png</back_to_top_image>
+      <logo_height>48px</logo_height>
+      <logo_width>48px</logo_width>
+      <sidebar_bgcolor>#ffffff</sidebar_bgcolor>
+      <and_search_enabled_image></and_search_enabled_image>
+      <and_search_disabled_image></and_search_disabled_image>
+      <autocomplete_remove_hover_image></autocomplete_remove_hover_image>
+      <title_font_family></title_font_family>
+      <filter_reset_image></filter_reset_image>
+    </css>
+    <html>
+      <do_not_preserve_ar type="boolean">true</do_not_preserve_ar>
+      <scroll_to_top type="boolean">false</scroll_to_top>
+      <set_topic_page_as_default type="boolean">false</set_topic_page_as_default>
+      <search_results_highlight_color>#000000</search_results_highlight_color>
+      <search_results_highlight_bgcolor>#FCFF00</search_results_highlight_bgcolor>
+      <use_and_search type="boolean">false</use_and_search>
+      <title_font_family></title_font_family>
+      <rtl></rtl>
+      <custom_buttons type="array"></custom_buttons>
+      <assets type="array">
+        <assetsitem>main.css</assetsitem>
+        <assetsitem>jqueryui-custom.css</assetsitem>
+      </assets>
+      <use_custom_toc_icons></use_custom_toc_icons>
+    </html>
+  </variables>
+  <version>2022.2.0</version>
+</skin>

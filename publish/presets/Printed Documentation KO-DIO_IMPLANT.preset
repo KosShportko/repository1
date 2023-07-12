@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preset>
+  <content>
+    <index type="boolean">true</index>
+    <toc>
+      <path>../../toc/Ortho System.toc</path>
+      <name>Ortho System</name>
+    </toc>
+    <glossary>
+      <path>../../glossary/Ortho System.glo</path>
+      <name>Ortho System</name>
+    </glossary>
+    <conditional>
+      <name>NOT KO_3DBioCAD_Asia AND NOT KO_3Shape_Korea AND NOT KO_OSSTEM_IMPLANT AND NOT Online AND NOT Thailand AND NOT Vietnam</name>
+      <path>../expressions/NOT KO_3DBioCAD_Asia AND NOT KO_3Shape_Korea AND NOT KO_OSSTEM_IMPLANT AND NOT Online AND NOT Thailand AND NOT Vietnam.expn</path>
+    </conditional>
+    <brs type="array"></brs>
+    <mapFiles type="array"></mapFiles>
+    <includeExpandingText type="boolean">true</includeExpandingText>
+    <includeDropdownText type="boolean">true</includeDropdownText>
+    <includereftopics type="boolean">true</includereftopics>
+    <relativeOutputPath type="boolean">false</relativeOutputPath>
+  </content>
+  <outputPath>C:/Users/Kostiantyn Shportko/Documents/My RoboHelp Projects/outputs/Ortho System/Printed_Documentation_KO</outputPath>
+  <starterPage>OS-85.0-K-EN.docx</starterPage>
+  <search>
+    <context>keyword</context>
+    <showSpeclChars type="boolean">false</showSpeclChars>
+    <speclChars>0;1;2;3;4;5;6;7;8;9</speclChars>
+  </search>
+  <sitemap>
+    <use type="boolean">false</use>
+    <changeFrequency></changeFrequency>
+  </sitemap>
+  <word>
+    <insertTopicBreak type="boolean">false</insertTopicBreak>
+    <stylemapping>{&quot;selectorMap&quot;:{},&quot;discardSelectors&quot;:[], &quot;identityMappedSelectors&quot;:[]}</stylemapping>
+    <displayChapter type="boolean">false</displayChapter>
+  </word>
+  <name>Printed Documentation KO-DIO_IMPLANT</name>
+  <type>word</type>
+  <title>Ortho System</title>
+  <defaultTopic></defaultTopic>
+  <lowercasenames type="number">0</lowercasenames>
+  <pdf>
+    <splitPdf type="boolean">false</splitPdf>
+  </pdf>
+  <gdprCompliance type="boolean">true</gdprCompliance>
+  <template>
+    <path>../templates/Printed Documentation KO-DIO_IMPLANT/word.tpl</path>
+  </template>
+  <excludeTopicCss type="boolean">true</excludeTopicCss>
+</preset>

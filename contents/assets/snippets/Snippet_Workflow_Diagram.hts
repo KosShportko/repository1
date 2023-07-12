@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="topic-comment" content=""/>
+<meta name="generator" content="Adobe RoboHelp 2022"/>
+<title>Snippet_Workflow_Diagram</title>
+<link rel="StyleSheet" href="../css/default.css" type="text/css"/>
+</head>
+
+<body>
+<table class="table-without-border" cellspacing="0">
+	<colgroup><col/>
+	<col/>
+	</colgroup><tbody><tr>
+		<td rowspan="2" style="vertical-align: top;"><p style="text-align: center; 
+														 font-weight: normal;">Workflow:</p>
+		<p style="text-align: center;"><img src="../images/images/arrow_down.png" alt="" style="border: none;" border="0"/></p></td>
+		<td><table class="table-without-border" cellspacing="0" width="100%" bgcolor="#D8D8D8">
+			<colgroup><col style="width: 33.333%;"/>
+			<col style="width: 33.333%;"/>
+			<col style="width: 33.333%;"/>
+			</colgroup><tbody><tr>
+				<td rowspan="6"><span>Part 1</span> 
+				(e.g. upper jaw)</td>
+				<td bgcolor="#C0C0C0"><span style="color: #ffffff;">Component 
+				 1 </span>
+				<span style="color: #ffffff;">(e.g. Shell)</span></td>
+				<td> </td>
+			</tr>
+			<tr>
+				<td style="vertical-align: top; padding-left: 0px; padding-right: 0px; 
+					 padding-top: 0px; padding-bottom: 0px;"><p style="text-align: right;"><img src="../images/images/grey_arrow.png" alt="" style="border: none;" border="0"/></p></td>
+				<td bgcolor="#808080"><span style="color: #ffffff;">Shell 
+				 Feature</span></td>
+			</tr>
+			<tr>
+				<td style="border-bottom: Solid 1px #d8d8d8;" bgcolor="#C0C0C0"><span style="color: #ffffff;">Component 2 </span>
+				<span style="color: #ffffff;">(e.g. Bar)</span></td>
+				<td> </td>
+			</tr>
+			<tr>
+				<td bgcolor="#C0C0C0"><span style="color: #ffffff;">Component 
+				 3 </span>
+				<span style="color: #ffffff;">(e.g. Combine 
+				 1 and 2)</span></td>
+				<td> </td>
+			</tr>
+			<tr>
+				<td rowspan="2" style="vertical-align: top; padding-left: 0px; 
+					 padding-right: 0px; padding-top: 0px; padding-bottom: 0px;"><p style="text-align: right;"><img src="../images/images/grey_double_arrow.png" alt="" style="border: none;" border="0"/></p></td>
+				<td style="border-bottom: Solid 1px #d8d8d8;" bgcolor="#808080"><span style="color: #ffffff;">Feature 1 </span>
+				<span style="color: #ffffff;">(e.g. Sculpt 
+				 on Component 3)</span></td>
+			</tr>
+			<tr>
+				<td bgcolor="#808080"><span style="color: #ffffff;">Feature 
+				 2 </span>
+				<span style="color: #ffffff;">(e.g. Attachment 
+				 on Component 3)</span></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+	<tr>
+		<td><table class="table-without-border" cellspacing="0" width="100%" bgcolor="#AFC6D1">
+			<colgroup><col style="width: 33.333%;"/>
+			<col style="width: 33.333%;"/>
+			<col style="width: 33.333%;"/>
+			</colgroup><tbody><tr>
+				<td rowspan="5"><span>Part 2</span> 
+				(e.g. lower jaw)</td>
+				<td style="border-bottom: Solid 1px #afc6d1;" bgcolor="#77A0B7"><span style="color: #ffffff;">Component 4 </span>
+				<span style="color: #ffffff;">(e.g. Shell)</span></td>
+				<td> </td>
+			</tr>
+			<tr>
+				<td bgcolor="#77A0B7"><span style="color: #ffffff;">Component 
+				 5 </span>
+				<span style="color: #ffffff;">(e.g. Bar)</span></td>
+				<td> </td>
+			</tr>
+			<tr>
+				<td rowspan="2" style="vertical-align: top; padding-left: 0px; 
+					 padding-right: 0px; padding-top: 0px; padding-bottom: 0px;"><p style="text-align: right;"><img src="../images/images/water_double_arrow.png" alt="" style="border: none;" border="0"/></p></td>
+				<td style="border-bottom: Solid 1px #77a0b7;" bgcolor="#3A7293"><span style="color: #ffffff;">Bar Feature</span></td>
+			</tr>
+			<tr>
+				<td bgcolor="#3A7293"><span style="color: #ffffff;">Feature 
+				 2 </span>
+				<span style="color: #ffffff;">(e.g. ID 
+				 tag on Component 5)</span></td>
+			</tr>
+			<tr>
+				<td bgcolor="#77A0B7"><span style="color: #ffffff;">Component 
+				 6 </span>
+				<span style="color: #ffffff;">(e.g. Combine 
+				 4 and 5)</span></td>
+				<td> </td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+</tbody></table>
+
+</body></html>

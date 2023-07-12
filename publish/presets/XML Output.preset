@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preset>
+  <content>
+    <index type="boolean">true</index>
+    <toc>
+      <path>../../toc/Ortho System.toc</path>
+      <name>Ortho System</name>
+    </toc>
+    <glossary>
+      <path>../../glossary/Ortho System.glo</path>
+      <name>Ortho System</name>
+    </glossary>
+    <brs type="array"></brs>
+    <mapFiles type="array"></mapFiles>
+    <includeDropdownText type="boolean">false</includeDropdownText>
+    <includeExpandingText type="boolean">false</includeExpandingText>
+    <relativeOutputPath type="boolean">false</relativeOutputPath>
+  </content>
+  <outputPath>C:/Users/Kostiantyn Shportko/Documents/My RoboHelp Projects/outputs/Ortho System/XML Output</outputPath>
+  <starterPage>Ortho_System.htm</starterPage>
+  <search>
+    <context>keyword</context>
+    <showSpeclChars type="boolean">false</showSpeclChars>
+    <speclChars>0;1;2;3;4;5;6;7;8;9</speclChars>
+  </search>
+  <sitemap>
+    <use type="boolean">false</use>
+    <changeFrequency></changeFrequency>
+  </sitemap>
+  <name>XML Output</name>
+  <type>xml</type>
+  <title>Ortho System</title>
+  <lowercasenames type="number">0</lowercasenames>
+  <generateMapFiles type="boolean">true</generateMapFiles>
+  <generateBRS type="boolean">true</generateBRS>
+  <xmltype>
+    <name>XHTML</name>
+    <displayName>XHTML</displayName>
+  </xmltype>
+</preset>

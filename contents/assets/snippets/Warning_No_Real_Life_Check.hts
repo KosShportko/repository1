@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="topic-comment" content=""/>
+<meta name="generator" content="Adobe RoboHelp 2022"/>
+<title>Warning_No_Real_Life_Check</title>
+<link rel="StyleSheet" href="../css/default.css" type="text/css"/>
+</head>
+
+<body>
+<table class="table-for-note" width="100%">
+	<colgroup><col width="70"/>
+	<col style="width: 100%;"/>
+	</colgroup><tbody><tr>
+		<td><img src="../images/images/warning.png" alt="" style="border: none;" border="0"/></td>
+		<td><span style="font-weight: bold;">Warning:</span> The software 
+		 does not contain any functionality attempting to check whether 
+		 any such real-life implementation attempt might result in damage, 
+		 e.g., to the patient’s teeth or jaw. Any treatment attempt to 
+		 implement on a patient a tooth movement or other manipulation 
+		 visualized by way of the software should be planned and made only 
+		 by a dental professional having with due diligence assessed whether 
+		 the visualized manipulation can actually be implemented without 
+		 causing damage to the patient.</td>
+	</tr>
+</tbody></table>
+
+</body></html>

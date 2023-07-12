@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="topic-comment" content=""/>
+<meta name="generator" content="Adobe RoboHelp 2022"/>
+<title>Warning1_Appliance_Designer_Glossary</title>
+<link rel="StyleSheet" href="../css/default.css" type="text/css"/>
+</head>
+
+<body>
+<table cellspacing="0" width="100%">
+	<colgroup><col width="70"/>
+	<col style="width: 100%;"/>
+	</colgroup><tbody><tr>
+		<td bgcolor="#CCCCCC"><img src="../images/images/warning.png" alt="" style="border: none;" border="0"/></td>
+		<td bgcolor="#CCCCCC"><span style="font-weight: bold;">Warning:</span> 
+		 Please make sure that the required material thickness and fitting 
+		 properties are applied, when creating the appliance model, according 
+		 to the specific material and manufacturing machine requirements 
+		 you will use.</td>
+	</tr>
+</tbody></table>
+
+</body></html>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="topic-comment" content=""/>
+<meta name="generator" content="Adobe RoboHelp 2022"/>
+<title>Snippet_Legal_Disclaimer_Ortho_Analyzer</title>
+<link rel="StyleSheet" href="../css/default.css" type="text/css"/>
+</head>
+
+<body>
+<p style="background-color: Transparent;">The functionality of the Ortho 
+ Analyzer software allows you to manipulate a 3D visual model of a patient’s 
+ dentition by dragging and moving individual teeth in the model, whereby 
+ you may explore how the visual appearance of the dentition may change 
+ if such tooth movements are implemented.</p>
+<p style="background-color: Transparent;"> </p>
+<p style="background-color: Transparent;">Please be informed that the Ortho 
+ Analyzer software does not in any way attempt to check if any specific 
+ tooth movement or combination of tooth movements visualized in the software 
+ is possible to implement on the patient in real life.</p>
+<p style="background-color: Transparent;"> </p>
+<p style="background-color: Transparent;">Manipulations visualized in the 
+ software may not be possible to implement in real life, e.g. because the 
+ teeth may not actually be moved as visualized. A visualization created 
+ in the software of any tooth movements may also be inaccurate, e.g., because 
+ such movements, if implemented in real life, might cause more or different 
+ effects than as shown in the visualization created within the software.</p>
+<p style="background-color: Transparent;"> </p>
+<p style="background-color: Transparent;">Furthermore, the software does 
+ not contain any functionality attempting to check whether any such real-life 
+ implementation attempt might result in damage, e.g., to the patient’s 
+ teeth or jaw. Any treatment attempt to implement on a patient a tooth 
+ movement or other manipulation visualized by way of the software should 
+ be planned and made only by a dental professional having with due diligence 
+ assessed whether the visualized manipulation can be implemented without 
+ causing damage to the patient.</p>
+<p style="background-color: Transparent;"> </p>
+<p style="background-color: Transparent;">The risks pertaining to any such 
+ treatment attempt shall be assumed entirely by the person carrying out 
+ the treatment. 3Shape A/S disclaims any and all liability for the results 
+ of any treatment attempts made based on the visualizations generated within 
+ the Ortho Analyzer software.</p>
+
+</body></html>

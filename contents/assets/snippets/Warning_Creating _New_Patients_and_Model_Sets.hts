@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="topic-comment" content=""/>
+<meta name="generator" content="Adobe RoboHelp 2022"/>
+<title>Warning_Creating _New_Patients_and_Model_Sets</title>
+<link rel="StyleSheet" href="../css/default.css" type="text/css"/>
+</head>
+
+<body>
+<table cellspacing="0" width="100%" bgcolor="#C0C0C0">
+	<colgroup><col width="70"/>
+	<col style="width: 100%;"/>
+	</colgroup><tbody><tr style="height: 23px;">
+		<td><p><img src="../images/images/warning.png" alt="" style="border: none;" border="0"/></p></td>
+		<td><p><span style="font-weight: bold;">Warning:</span> Make sure 
+		 that the physical plaster or impression models match the patient 
+		 information when scanning the models and creating the record in 
+		 the system.</p></td>
+	</tr>
+</tbody></table>
+
+</body></html>

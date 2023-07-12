@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preset>
+  <content>
+    <index type="boolean">true</index>
+    <toc>
+      <path>../../toc/Ortho System.toc</path>
+      <name>Ortho System</name>
+    </toc>
+    <glossary>
+      <path>../../glossary/Ortho System.glo</path>
+      <name>Ortho System</name>
+    </glossary>
+    <brs type="array"></brs>
+    <mapFiles type="array"></mapFiles>
+    <relativeOutputPath type="boolean">false</relativeOutputPath>
+    <includeDropdownText type="boolean">false</includeDropdownText>
+    <includeExpandingText type="boolean">false</includeExpandingText>
+  </content>
+  <outputPath>C:/Users/Kostiantyn Shportko/Documents/My RoboHelp Projects/outputs/Ortho System/eBook</outputPath>
+  <starterPage>Ortho_System.epub</starterPage>
+  <search>
+    <context>keyword</context>
+    <showSpeclChars type="boolean">false</showSpeclChars>
+    <speclChars>0;1;2;3;4;5;6;7;8;9</speclChars>
+  </search>
+  <sitemap>
+    <use type="boolean">false</use>
+    <changeFrequency></changeFrequency>
+  </sitemap>
+  <metadata>
+    <customMetadata></customMetadata>
+    <author></author>
+  </metadata>
+  <epub>
+    <publisher>Adobe RoboHelp 10</publisher>
+    <description></description>
+    <uuid>urn:uuid:5022a65b-bf62-4d48-9c8a-f3b4c23d739b</uuid>
+    <rights></rights>
+    <date>2018-05-03</date>
+  </epub>
+  <name>eBook</name>
+  <type>epub</type>
+  <title>Ortho System</title>
+  <defaultTopic></defaultTopic>
+  <lowercasenames type="number">0</lowercasenames>
+  <ebooktype>
+    <name>EPUB</name>
+    <displayName>EPUB</displayName>
+  </ebooktype>
+</preset>
